@@ -24,6 +24,11 @@ class AddWords: UIViewController {
     
     //-----------
     
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        manageUser()
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         manageUser()

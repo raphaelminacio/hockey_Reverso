@@ -44,6 +44,7 @@
 		281576661FBE0E1E006C957C /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 281576481FBE0E1E006C957C /* Icon-120.png */; };
 		284618DE1FBE3BAE00ED153E /* UserDefaultsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284618DD1FBE3BAE00ED153E /* UserDefaultsManager.swift */; };
 		284618E01FBE6F4E00ED153E /* AddWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284618DF1FBE6F4E00ED153E /* AddWords.swift */; };
+		9B07A8E91FBF797600F23B9B /* hockey_Reverso.mov in Resources */ = {isa = PBXBuildFile; fileRef = 9B07A8E81FBF797600F23B9B /* hockey_Reverso.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		281576481FBE0E1E006C957C /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
 		284618DD1FBE3BAE00ED153E /* UserDefaultsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsManager.swift; sourceTree = "<group>"; };
 		284618DF1FBE6F4E00ED153E /* AddWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddWords.swift; sourceTree = "<group>"; };
+		9B07A8E81FBF797600F23B9B /* hockey_Reverso.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = hockey_Reverso.mov; path = ../../../Documents/hockey_Reverso.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 		281576141FBE0C70006C957C /* hockey_Reverso */ = {
 			isa = PBXGroup;
 			children = (
+				9B07A8E81FBF797600F23B9B /* hockey_Reverso.mov */,
 				281576271FBE0DC3006C957C /* images */,
 				284618DD1FBE3BAE00ED153E /* UserDefaultsManager.swift */,
 				281576151FBE0C70006C957C /* AppDelegate.swift */,
@@ -241,6 +244,7 @@
 				2815761D1FBE0C70006C957C /* Assets.xcassets in Resources */,
 				2815761B1FBE0C70006C957C /* Main.storyboard in Resources */,
 				281576501FBE0E1E006C957C /* Icon-48.png in Resources */,
+				9B07A8E91FBF797600F23B9B /* hockey_Reverso.mov in Resources */,
 				281576641FBE0E1E006C957C /* Icon-172.png in Resources */,
 				281576651FBE0E1E006C957C /* Icon-100.png in Resources */,
 				2815764C1FBE0E1E006C957C /* Icon-196.png in Resources */,
